@@ -4,6 +4,13 @@ Computer Science student at the University of Ottawa interested in software deve
 
 ## Projects
 
+### Rental Portfolio Management System
+**React | TypeScript | FastAPI | SQLAlchemy | PostgreSQL | Pydantic**
+
+Developing a full-stack system for managing properties, rental units, tenants, leases, payments, and occupancy with a React/TypeScript frontend and FastAPI/PostgreSQL backend.
+
+**Repository:** [View Rental Portfolio Management System](https://github.com/Mrc980/rental-portfolio-manager)
+
 ### OTAMS — Online Tutoring Appointment Management System
 **Java | Android | Firebase | JUnit | CircleCI | Agile**
 
@@ -18,9 +25,9 @@ Built a Python tool that automates comparisons between inconsistent Excel datase
 
 **Repository:** [View Smart Excel Data Matcher](https://github.com/Mrc980/Smart_Excel_Data_Matcher)
 
-### Rental Portfolio Management System
-**React | TypeScript | FastAPI | PostgreSQL**
+### Minecraft Server Deployment & Monitoring
 
-Developing a full-stack system for managing properties, rental units, tenants, leases, payments, and occupancy with a React/TypeScript frontend and FastAPI/PostgreSQL backend.
+**C | Python | Linux | Docker | Docker Compose | AWS S3**
 
-**Repository:** [View Rental Portfolio Management System](https://github.com/Mrc980/rental-portfolio-manager)
+Deployed a Minecraft server on Ubuntu Linux using Docker Compose, with persistent storage and SSH for remote access. Built a lightweight C utility to monitor CPU usage, memory utilization, and server status, and used Python to automate backups to AWS S3.
+
